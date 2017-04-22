@@ -9,7 +9,7 @@
     android:id="@+id/image"
     android:layout_centerHorizontal="true"
     android:layout_centerVertical="true"
-    android:src="@drawable/sample1"
+    android:src="@drawable/ic_favorite_black_36dp"
     android:layout_width="100dp"
     android:layout_height="100dp" />
 
